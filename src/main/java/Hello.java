@@ -7,6 +7,7 @@ public class Hello {
         System.out.println("i hate you saladin");
 
         System.out.println("aasjbjd");
+        System.out.println("hey fili");
     }
 
 }
