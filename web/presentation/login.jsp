@@ -12,5 +12,11 @@
 </head>
 <body>
 
+<form action="/login" method="post">
+    User Name<input type="text" name="userName" >
+    Password <input type="password" name="password" >
+    Login <input type="submit" name="login" value="login">
+</form>
+
 </body>
 </html>
