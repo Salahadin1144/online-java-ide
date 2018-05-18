@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="OnlineJavaIDEMain:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="OnlineExamPlatform.war">
+      <element id="artifact" artifact-name="OnlineJavaIDEMain:war exploded" />
+    </root>
+  </artifact>
+</component>
