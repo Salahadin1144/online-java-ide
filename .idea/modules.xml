@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/online-java-ide.iml" filepath="$PROJECT_DIR$/.idea/online-java-ide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnlineJavaIDEMain.iml" filepath="$PROJECT_DIR$/OnlineJavaIDEMain.iml" />
     </modules>
   </component>
 </project>
